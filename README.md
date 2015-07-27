@@ -1,6 +1,6 @@
 # RelNofollow
 
-Add rel="nofollow" to all link in a string
+Add rel="nofollow" to every link in a string
 
 
 ## Installation
