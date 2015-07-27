@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Add rel=nofollow to links inside an html code in string format"
   spec.description   = "Intall the gem and call string.add_nofollow to add rel='nofollow' to all links inside the string"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/lmajowka/rel_nofollow"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
